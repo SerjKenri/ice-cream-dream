@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://serjkenri.github.io/ice-cream-dream",
+  "homepage": "https://serjkenri.github.io/ice-cream-dream/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /ice-cream-dream/"
